@@ -87,7 +87,7 @@
 			 <wintitle>calendar pane</wintitle> appears.</propdesc> 
 		</property> 
 		<property> 
-		  <proptype><uicontrol>Reset button</uicontrol></proptype> 
+		  <proptype><uicontrol>sReset button</uicontrol></proptype> 
 		  <propdesc>Deletes the values from the 
 			 <uicontrol>Year</uicontrol> and 
 			 <uicontrol>Day Of The Week</uicontrol> fields, clears the 
